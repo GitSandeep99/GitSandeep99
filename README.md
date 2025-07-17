@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Gaurav</h1>
-<h3 align="center">🚀 Full-Stack Developer | Crafting Scalable Solutions with Java, Spring Boot, Angular, and Modern Web Technologies 🌐</h3>
+<h1 align="center">Hi 👋, I'm Sandeep</h1>
+<h3 align="center">🚀 Java Backend Developer | Crafting Scalable Solutions with Java, Spring Boot, Angular, and Modern Web Technologies 🌐</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitgaurav72&label=Profile%20views&color=0e75b6&style=flat" alt="gitgaurav72" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitsandeep99&label=Profile%20views&color=0e75b6&style=flat" alt="gitsandeep99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitgaurav72" alt="gitgaurav72" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitsandeep99" alt="gitsandeep99" /></a> </p>
 
-- 🔭 I’m currently working on **ChatZap project**
+- 🔭 I’m currently working on **Hotel Ratting System**
 
 - 🌱 I’m currently learning **AWS, Docker, RabbitMQ, Microservices**
 
-- 👨‍💻 All of my projects are available at [https://github.com/GitGaurav72/GitGaurav72](https://github.com/GitGaurav72/GitGaurav72)
+- 👨‍💻 All of my projects are available at [https://github.com/Gitsandeep99/GitGaurav72](https://github.com/GitGaurav72/GitGaurav72)
 
 - 📫 How to reach me **gaurav.nitkkr.72@gmail.com**
 
