@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/im-sandeep-kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-kumar-3aaa6a189" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/im-sandeep-kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/sandeep/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep-kumar-3aaa6a189" height="30" width="40" /></a>
 </p>
 
 
