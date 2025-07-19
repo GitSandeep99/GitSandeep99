@@ -10,7 +10,7 @@ Terms · Privacy · Program Policies
 Last account activity: 0 minutes ago
 Open in 1 other location · Details
 <h1 align="center">Hi 👋, I'm Sandeep</h1>
-<h3 align="center">🚀 Full-Stack Developer | Crafting Scalable Solutions with Java, Spring Boot,Microservices,  Angular, and Modern Web Technologies 🌐</h3>
+<h3 align="center">🚀 Java Backend Developer | Crafting Scalable Solutions with Java, Spring Boot,Microservices,  Angular, and Modern Web Technologies 🌐</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitgaurav72" alt="gitgaurav72" /></a> </p>
