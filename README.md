@@ -1,14 +1,4 @@
 
-
-Skip to content
-Using Gmail with screen readers
-Enable desktop notifications for Gmail.
-   OK  No thanks
-Conversations
-0% of 15 GB used
-Terms · Privacy · Program Policies
-Last account activity: 0 minutes ago
-Open in 1 other location · Details
 <h1 align="center">Hi 👋, I'm Sandeep</h1>
 <h3 align="center">🚀 Java Backend Developer | Crafting Scalable Solutions with Java, Spring Boot,Microservices,  Angular, and Modern Web Technologies 🌐</h3>
 
