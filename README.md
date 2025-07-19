@@ -9,7 +9,7 @@ Conversations
 Terms · Privacy · Program Policies
 Last account activity: 0 minutes ago
 Open in 1 other location · Details
-<h1 align="center">Hi 👋, I'm Gaurav</h1>
+<h1 align="center">Hi 👋, I'm Sandeep</h1>
 <h3 align="center">🚀 Full-Stack Developer | Crafting Scalable Solutions with Java, Spring Boot, Angular, and Modern Web Technologies 🌐</h3>
 
 
